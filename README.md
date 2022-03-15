@@ -13,3 +13,4 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   
    [![DY0617's GitHub stats](https://github-readme-stats.vercel.app/api?username=DY0617&theme=solarized-light&show_icons=true&align="center")](https://github.com/DY0617/github-readme-stats)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
