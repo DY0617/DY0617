@@ -12,5 +12,5 @@
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   
-  <p align="center">
-     [![DY0617's GitHub stats](https://github-readme-stats.vercel.app/api?username=DY0617)](https://github.com/DY0617/github-readme-stats)?username=DY0617&theme=solarized-light&show_icons=true )
+     <p align="center">
+   [![DY0617's GitHub stats](https://github-readme-stats.vercel.app/api?username=DY0617)&theme=solarized-light&show_icons=true](https://github.com/DY0617/github-readme-stats)
