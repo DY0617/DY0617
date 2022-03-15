@@ -1,7 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=28&height=300&secton=header&text=DY0617&fontSize=90&animation=fadeIn&fontColor=b2b2b2)
 
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=28&height=300&secton=header&text=DY0617&fontSize=90&animation=fadeIn&fontColor=b2b2b2)
+
 
 <h3 align="center">Hi there, I'm <span style="color:blue">DY!</span></h3>
 
