@@ -11,6 +11,6 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-   <img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=springboot&logoColor=white"/></a>&nbsp
-
-   [![DY0617's GitHub stats](https://github-readme-stats.vercel.app/api?username=DY0617)](https://github.com/DY0617/github-readme-stats)
+  
+  <p align="center">
+     [![DY0617's GitHub stats](https://github-readme-stats.vercel.app/api?username=DY0617)](https://github.com/DY0617/github-readme-stats)?username=DY0617&theme=solarized-light&show_icons=true )
