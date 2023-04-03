@@ -17,7 +17,7 @@
    <img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=springboot&logoColor=white"/></a>&nbsp     
    
    
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DY0617&layout=compact&theme=solarized-light)
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dy0617)](https://github.com/anuraghazra/github-readme-stats)
 
    [![DY0617's GitHub stats](https://github-readme-stats.vercel.app/api?username=DY0617&theme=solarized-light&show_icons=true)](https://github.com/DY0617/github-readme-stats)
 
